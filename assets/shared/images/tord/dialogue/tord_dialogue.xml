@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tord_dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tordDialog0000" x="5" y="5" width="278" height="393" frameX="-6" frameY="-21" frameWidth="288" frameHeight="416"/>
+	<SubTexture name="tordDialog0001" x="288" y="5" width="283" height="414" frameX="0" frameY="0" frameWidth="288" frameHeight="416"/>
+	<SubTexture name="tordDialog0002" x="576" y="5" width="284" height="406" frameX="-4" frameY="-10" frameWidth="288" frameHeight="416"/>
+	<SubTexture name="tordPissedDialog0000" x="5" y="424" width="278" height="393" frameX="-6" frameY="-21" frameWidth="288" frameHeight="416"/>
+	<SubTexture name="tordPissedDialog0001" x="288" y="424" width="283" height="414" frameX="0" frameY="0" frameWidth="288" frameHeight="416"/>
+	<SubTexture name="tordPissedDialog0002" x="576" y="424" width="284" height="406" frameX="-4" frameY="-10" frameWidth="288" frameHeight="416"/>
+</TextureAtlas>

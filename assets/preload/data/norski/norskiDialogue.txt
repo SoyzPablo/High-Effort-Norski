@@ -1,0 +1,14 @@
+tord:left boyfriend:right
+:0:normal:0.05:normal:Augh, how are you supposed to be good\nat this?
+:0:normal:0.05:normal:Whatever, you win this time, kid.
+:1:normal:0.05:normal:Beep boop bep (funny)
+:0:normal:0.05:normal:What's so funny, huh?
+:1:normal:0.05:normal:Bep skeboop
+:0:normal:0.05:normal:My accent?
+:0:normal:0.05:normal:What about it?
+:1:normal:0.05:normal:Beeb pip bop ba
+:0:normal:0.05:normal:It sounds stupid?
+:0:normal:0.05:normal:Its 'cause im norwegian?
+:0:angry:0.05:normal:Oh, I see how it is.
+:0:angry:0.05:angry:YOU MOTHER FUCKER.
+:0:angry:0.05:angry:LETS GET GOING, YOU BLUE \nHAIRED BITCH.

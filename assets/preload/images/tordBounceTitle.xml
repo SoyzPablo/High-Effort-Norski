@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tordBounceTitle.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tord bounce title0000" x="5" y="5" width="349" height="624" frameX="0" frameY="-24" frameWidth="354" frameHeight="648"/>
+	<SubTexture name="tord bounce title0001" x="5" y="5" width="349" height="624" frameX="0" frameY="-24" frameWidth="354" frameHeight="648"/>
+	<SubTexture name="tord bounce title0002" x="359" y="5" width="351" height="633" frameX="0" frameY="-15" frameWidth="354" frameHeight="648"/>
+	<SubTexture name="tord bounce title0003" x="715" y="5" width="353" height="641" frameX="0" frameY="-7" frameWidth="354" frameHeight="648"/>
+	<SubTexture name="tord bounce title0004" x="715" y="5" width="353" height="641" frameX="0" frameY="-7" frameWidth="354" frameHeight="648"/>
+	<SubTexture name="tord bounce title0005" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0006" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0007" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0008" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0009" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0010" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0011" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0012" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0013" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0014" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0015" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0016" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0017" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0018" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0019" x="1073" y="5" width="354" height="648"/>
+	<SubTexture name="tord bounce title0020" x="1073" y="5" width="354" height="648"/>
+</TextureAtlas>

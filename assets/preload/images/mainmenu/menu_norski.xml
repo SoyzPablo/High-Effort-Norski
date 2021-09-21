@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_norski.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="norski basic0000" x="5" y="5" width="407" height="121"/>
+	<SubTexture name="norski basic0001" x="5" y="5" width="407" height="121"/>
+	<SubTexture name="norski basic0002" x="5" y="5" width="407" height="121"/>
+	<SubTexture name="norski basic0003" x="417" y="5" width="407" height="121"/>
+	<SubTexture name="norski basic0004" x="417" y="5" width="407" height="121"/>
+	<SubTexture name="norski basic0005" x="417" y="5" width="407" height="121"/>
+	<SubTexture name="norski white0000" x="5" y="131" width="526" height="159" frameX="-5" frameY="-1" frameWidth="532" frameHeight="163"/>
+	<SubTexture name="norski white0001" x="5" y="295" width="528" height="163" frameX="-4" frameY="0" frameWidth="532" frameHeight="163"/>
+	<SubTexture name="norski white0002" x="5" y="463" width="531" height="160" frameX="0" frameY="-1" frameWidth="532" frameHeight="163"/>
+</TextureAtlas>
